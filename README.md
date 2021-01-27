@@ -29,10 +29,11 @@ are released in First in First out order.</p>
 <li><b>OpenCV >= 4.1 </b>
         <ul>
             <li>The OpenCV 4.1.0 source code can be found here</li>
-
+</ul>
 <li><b>gcc/g++ >= 5.4</b>
         <ul>
             <li>Linux: gcc / g++ is installed by default on most Linux distros</li>
+</ul>
         
 
 <h2>Basic Build Instructions</h2>
