@@ -41,6 +41,6 @@ are released in First in First out order.</p>
     <li>Clone this repo.</li>
     <li>Make a build directory in the top level directory: mkdir build && cd build</li>
     <li>Compile: cmake .. && make</li>
-    <li>Run it: ./membot.</li>
+    <li>Run it: ./traffic_simulation.</li>
 </ul>
 
