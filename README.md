@@ -1,7 +1,7 @@
 # Concurrent_traffic_simulation
 
-<p>The implementation of Concurrent traffic simulation, the fourth project in Udacity C++ Nanodegree. The vehicles
-are run as different tasks which access the same thread queue and message queue. Both the queus are protected 
+<p>The implementation of Concurrent traffic simulation, the fourth project in Udacity C++ Nanodegree. In this project, the vehicles
+are run as different tasks, and they have access to the same thread queue and message queue, which are protected 
 by resource locking mechanism in C++. The vehicles wait in thread queue when they reach an intersection and 
 are released in First in First out order.</p>
 
